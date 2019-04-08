@@ -1,0 +1,44 @@
+#Part1{
+   display:flex;
+   justify-content: space-around;
+   background-color: #C34F36;
+   color:white;
+}
+#subheads{
+    display:flex;
+    justify-content:center;
+    justify-content:space-around;
+    padding:40px;
+    background-color:#711805;
+    color:white;
+}
+#Part1{
+    text-align:center;
+}
+#button{
+    text-align:center;
+    justify-content:space-around;
+     background-color: #C34F36;
+   color:white;
+   padding:35px;
+}
+#input{
+    display:flex;
+    justify-content: space-around;
+     background-color: #C34F36;
+   color:white;
+}
+#input2{
+    display:flex;
+    justify-content: space-around;
+}
+#total{
+   justify-content:center;
+    background-color:#711805;
+    color:white;
+     padding:50px;
+}
+.item{
+    display:flex;
+    justify-content: space-around;
+}
